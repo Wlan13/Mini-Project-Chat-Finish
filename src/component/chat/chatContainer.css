@@ -1,0 +1,20 @@
+body {
+    padding-top: unset;
+}
+
+.chat-room {
+   position: absolute;
+   padding: 20px;
+   width: 70%;
+   max-width: 70%;
+   left: 30%;
+   background: url(../chat/super_hero_whatsapp_background_by_x_ama_d8fr7iz-fullview.jpg);
+   height: 100vh;
+}
+    
+.chat-live {
+    height: 100%;
+    overflow: auto;
+}
+
+

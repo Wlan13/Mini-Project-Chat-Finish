@@ -1,0 +1,38 @@
+a {
+	text-decoration: none;
+}
+
+.avatar {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+
+.img_upload {
+	position: relative;
+	left: 65px;
+	bottom:  20px;
+	border-radius: 50px;
+	z-index: 999;
+}
+
+.img_upload i {
+	font-size: 30px;
+	cursor: pointer;
+	color: #fff;
+}
+
+.img_upload > input {
+	display: none;
+}
+nav i, nav [class^="mdi-"], nav [class*="mdi-"], nav i.material-icons {
+    display: block;
+	font-size: 30px;
+	margin-top: 5px;
+    height: 56px;
+    line-height: 56px;
+}
+
+.space-50 {
+	height: 50px;
+}

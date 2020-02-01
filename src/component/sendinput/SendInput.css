@@ -1,0 +1,27 @@
+.div-send {
+    display: none;
+}
+
+.send-input {
+    position: fixed;
+    bottom: 0;
+}
+
+.send-input::placeholder {
+    color: #38d39f;
+}
+
+.send-input:focus::placeholder {
+    color: transparent;
+}
+
+.click-send {
+    color: #38d39f;
+    cursor: pointer;
+    font-size: 25px;
+    height: 33px;
+    position: absolute;
+    right: 0;
+    bottom: 10px;
+    width: 33px;
+}

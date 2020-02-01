@@ -1,0 +1,19 @@
+.send {
+	border: 2px solid transparent;
+	border-radius: 5px;
+	width: 25vw;
+	padding: 5px;
+}
+.darker {
+    background-color: #38d39f;
+	position: relative;
+	left: 40vw;
+	border-color: transparent;
+    text-align: left;
+	color: #ffffff;
+	margin-bottom: 90px;
+}
+.darker p {
+	text-align: right;
+
+}

@@ -1,0 +1,16 @@
+.receiver {
+	border: 2px solid transparent;
+	background-color: #ddd;
+	border-radius: 5px;
+	width: 25vw;
+	margin-bottom: 90px;
+	padding: 5px;
+
+}
+.receiver p {
+	text-align: right;
+	color: #333;
+	text-align: left;
+	position: relative;
+	top: 8px;
+}
